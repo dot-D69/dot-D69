@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning  Data structures and Algorithms<br><br>Languages I know :<br>1. Python<br>2. C/C++<br>3. Java<br><br>My interests consist of the following:-<br>> Linux<br>> Web Development<br>> Artificial Intelligence<br>
+🌱 I’m currently pursuing B.Tech in CSE <br><br>Languages I know :<br>1. Python<br>2. C/C++<br>3. Java<br><br>My interests consist of the following:-<br>> Linux<br>> Web Development<br>> Artificial Intelligence<br>
 
 
 ## 🌐 Socials:
