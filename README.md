@@ -26,4 +26,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dot-D69&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dot-D69&label=Profile%20Views&color=6&icon=8&pretty=true)](https://visitcount.itsvg.in)
