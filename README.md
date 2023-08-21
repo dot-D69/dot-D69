@@ -1,3 +1,6 @@
+![GIF](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47k99qrypd9dvptyzbivxrt21ip35tg5d6vr2u28w5&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+
 # 💫 About Me:
 :seedling:I’m currently pursuing B.Tech in CSE<br>:fire:I Like to make/manipulate things <br><br>Languages I know :<br>1. Python<br>2. C/C++<br>3. Java<br><br>My interests consist of the following:-<br>> Linux<br>> Web Development<br>> Artificial Intelligence<br>>Web3
 
