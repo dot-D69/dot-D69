@@ -1,32 +1,85 @@
-![GIF](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47k99qrypd9dvptyzbivxrt21ip35tg5d6vr2u28w5&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<br clear="both">
 
+<div align="center">
+  <img height="250" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47k99qrypd9dvptyzbivxrt21ip35tg5d6vr2u28w5&ep=v1_gifs_search&rid=giphy.gif&ct=g)"  />
+</div>
 
-# 💫 About Me:
-:seedling:I’m currently pursuing B.Tech in CSE<br>:fire:I Like to make/manipulate things <br><br>Languages I know :<br>1. Python<br>2. C/C++<br>3. Java<br><br>My interests consist of the following:-<br>> Linux<br>> Web Development<br>> Artificial Intelligence<br>>Web3
+###
 
+<br clear="both">
 
-## 🌐 Socials:
-<a href="https://t.me/DEA_D69"><img src="https://img.shields.io/badge/Telegram-0088CC.svg?logo=telegram" /></a>
-<a href="https://www.linkedin.com/in/anurag-vishwas-b21338237/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white"/></a>
+<h1 align="center">Hey there 👋</h1>
 
-## 🚀 Coding Profile:
-<a href="https://leetcode.com/ANURAGVISHWAS/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white"/></a>
-<a href="https://www.hackerearth.com/@anuragvishwas19-"><img src="https://img.shields.io/badge/HackerEarth-323754.svg?logo=hackerearth&logoColor=white"/></a>
-<a href="https://www.codingninjas.com/studio/profile/a590f8b9-dca7-4220-a107-ab983b721b45"><img src="https://img.shields.io/badge/CodingNinjas-1F2043.svg?logo=codingninjas&logoColor=white"/></a>
-<a href="https://www.interviewbit.com/profile/dot-d69"><img src="https://img.shields.io/badge/InterviewBit-008000.svg?logo=interviewbit&logoColor=white"/></a>
+###
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dot-D69&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dot-D69&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dot-D69&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h3 align="left">💫 About Me:</h3>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dot-D69&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+###
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="left">I'm a passionate college student currently pursuing a B.Tech in Computer Science and Engineering. Welcome to my GitHub profile! 🚀<br><br>I find joy in exploring the world of technology and bringing ideas to life. While I'm at the early stages of my journey, I'm enthusiastic about learning and growing in the tech field. I believe that every small step I take contributes to my future successes.<br><br>## My Interests<br><br>I have a strong curiosity about various aspects of technology. Some of my interests include:<br><br>- 🐧 Exploring the Linux ecosystem and its endless possibilities.<br>- 💻 Dabbling in Web Development to create functional and visually appealing websites.<br>- 🤖 Delving into Artificial Intelligence and its potential to transform industries.<br>- 🌐 Learning about Web3 and the decentralized future of the internet.<br><br>## Tech I'm Familiar With<br><br>I'm familiar with a few programming languages:<br><br>1. Python - I enjoy its versatility and use it for a variety of tasks.<br>2. C/C++ - These languages intrigue me, and I'm excited to deepen my understanding.<br>3. Java - I appreciate its wide range of applications, especially in software development.<br><br><br>I'm on the lookout for opportunities to learn, collaborate, and grow. If you're working on exciting projects, have insights to share, or just want to connect, feel free to reach out to me.<br>
+<div align="left">
+  <a href="https://www.linkedin.com/in/anurag-vishwas-b21338237/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://t.me/Anurag_rx">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+  </a>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=dot-D69&label=Profile%20Views&color=6&icon=8&pretty=true)](https://visitcount.itsvg.in)
+ <br>Looking forward to connecting with fellow tech enthusiasts and exploring the endless possibilities together! 🌱🚀</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dot-D69&theme=radical&card_width=500(https://git.io/streak-stats)" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dot-d69&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dot-d69&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+<div align="center">
+<img height="200" src= "https://media1.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47d6ho1m8s3vcyl2o9xfcyzgfhj6sdzihh8v1egrvq&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+</div>
+
+###
