@@ -83,7 +83,7 @@ I'm on the lookout for opportunities to learn, collaborate, and grow. If you're 
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47d6ho1m8s3vcyl2o9xfcyzgfhj6sdzihh8v1egrvq&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" />
+  <img height="250" src="https://media1.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47d6ho1m8s3vcyl2o9xfcyzgfhj6sdzihh8v1egrvq&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" />
 </div>
 
 ###
