@@ -8,7 +8,7 @@
 
 I'm a passionate college student pursuing a B.Tech in Computer Science and Engineering. Welcome to my GitHub profile! 🚀
 
-I enjoy exploring technology and bringing ideas to life. While I'm at the early stages of my journey, I'm enthusiastic about learning and growing in the tech field. I believe that every small step I take contributes to my future successes.
+I enjoy exploring technology and bringing ideas to life. While I'm at the early stages of my journey, I'm enthusiastic about learning and growing in the tech field. I believe that every small step I take contributes to my future success.
 
 ### ✨ My Interests
 
@@ -23,11 +23,11 @@ I have a strong curiosity about various aspects of technology. Some of my intere
 
 I'm familiar with several programming languages:
 
-1. **Python** - I enjoy its versatility and use it for a variety of tasks. 🐍
-2. **C/C++** - I am deeply passionate about these languages and constantly strive to expand my knowledge. 🧑‍💻
+1. **Python** - I enjoy its versatility and use it for various tasks. 🐍
+2. **C/C++** - I am passionate about these languages and constantly strive to expand my knowledge. 🧑‍💻
 3. **Java** - I appreciate its wide range of applications, especially in software development. ☕
 
-I'm on the lookout for opportunities to learn, collaborate, and grow. If you're working on exciting projects, have insights to share, or just want to connect, feel free to reach out to me.
+I'm looking for opportunities to learn, collaborate, and grow. If you're working on exciting projects, have insights to share, or just want to connect, feel free to reach out to me.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/anurag-vishwas-b21338237/" target="_blank">
