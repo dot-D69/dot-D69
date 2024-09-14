@@ -8,7 +8,7 @@
 
 I'm a passionate college student pursuing a B.Tech in Computer Science and Engineering. Welcome to my GitHub profile! 🚀
 
-I enjoy exploring technology and bringing ideas to life. While I'm at the early stages of my journey, I'm enthusiastic about learning and growing in the tech field. I believe that every small step I take contributes to my future success.
+I enjoy exploring technology and bringing ideas to life. While I'm in the early stages of my journey, I'm enthusiastic about learning and growing in tech. I believe that every small step I take contributes to my future success.
 
 ### ✨ My Interests
 
