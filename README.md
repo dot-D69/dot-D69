@@ -71,7 +71,7 @@ I'm looking for opportunities to learn, collaborate, and grow. If you're working
 
 <!-- Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dot-D69&theme=radical&card_width=500" height="200" />
+  <img src="https://streak-stats.demolab.com?user=dot-D69&theme=radical&cache_seconds=0&card_width=500" height="200" />
 </p>
 <!-- Stats -->
 <p align="center">
